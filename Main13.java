@@ -17,6 +17,7 @@ public class Main13 {
         int[] num=new int[s.length];
         for(int i=0;i<s.length;i++){
             num[i]=Integer.parseInt(s[i]);
+           // num[i]=Integer.valueOf(s[i]);
         }
 
         for(int i=0;i<num.length;i++){
