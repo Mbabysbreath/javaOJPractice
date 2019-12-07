@@ -10,6 +10,7 @@ public class Main21 {
         boolean b=(true?false:true==true?false:true);
         boolean b1=true?false:true;
       //  boolean b2=false;
+        System.out.println(true?false:true==true?false:true);
         System.out.println(b);
         System.out.println(b1);
         System.out.println(false?false:true);
