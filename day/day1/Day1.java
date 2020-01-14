@@ -1,9 +1,9 @@
-package day;
+package day.day1;
 
 import java.util.Arrays;
 
 /**
- * 将数组右移k位
+ * 力扣：将数组右移k位
  * @author zhaomin
  * @date 2020/1/11 20:11
  */

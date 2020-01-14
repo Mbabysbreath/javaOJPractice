@@ -1,4 +1,4 @@
-package day;
+package day.day1;
 
 /**
  * 转换成小写字母
